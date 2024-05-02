@@ -1,0 +1,4 @@
+[wifi]
+wifi_ssid = "FBI Surveillance Van"
+wifi_psk = "hunter2"
+webhook_url = "https://example.com/webhook"
